@@ -1,0 +1,139 @@
+/* CSS for buttons */
+.bmls_primary_default_btn {
+  color: #ffffff !important;
+  background: #d46a48 !important;
+  border-radius: 4px !important;
+  text-transform: none !important; }
+  .bmls_primary_default_btn:hover {
+    background: #682c18 !important; }
+  .bmls_primary_default_btn:active {
+    background: #fdf0ec !important;
+    color: #d46a48 !important; }
+  .bmls_primary_default_btn.Mui-disabled {
+    background: #bbbbc4 !important; }
+
+.bmls_primary_small_btn {
+  color: #ffffff !important;
+  background: #d46a48 !important;
+  border-radius: 4px !important;
+  text-transform: none !important;
+  /* &:hover {
+    background: $color-orange-dark  !important;
+  }
+
+  &:active {
+    background: $color-orange-light  !important;
+    color: $color-orange  !important;
+  } */ }
+  .bmls_primary_small_btn.Mui-disabled {
+    background: #bbbbc4 !important; }
+
+.bmls_secondary_default_btn {
+  color: #d46a48 !important;
+  border-color: #d46a48 !important;
+  border-radius: 4px !important;
+  text-transform: none !important;
+  /* &:hover {
+    background: $color-orange  !important;
+    color: $color-white  !important;
+  }
+
+  &:active {
+    background: $color-orange-light  !important;
+    color: $color-orange  !important;
+  } */ }
+  .bmls_secondary_default_btn.Mui-disabled {
+    border-color: #bbbbc4 !important;
+    color: #bbbbc4 !important; }
+
+.bmls_secondary_small_btn {
+  color: #d46a48 !important;
+  border-color: #d46a48 !important;
+  border-radius: 4px !important;
+  text-transform: none !important;
+  /* &:hover {
+    background: $color-orange  !important;
+    color: $color-white  !important;
+  }
+
+  &:active {
+    background: $color-orange-light  !important;
+    color: $color-orange  !important;
+  } */ }
+  .bmls_secondary_small_btn.Mui-disabled {
+    border-color: #bbbbc4 !important;
+    color: #bbbbc4 !important; }
+
+.bmls_tertiary_default_btn {
+  color: #253772 !important;
+  border-radius: 4px !important;
+  text-transform: none !important;
+  /* &:hover {
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    background-color: transparent !important;
+  }
+
+  &:focus {
+    box-shadow: 4px 0px 4px rgba(0, 0, 0, 0.12) !important;
+  }
+
+  &:active {
+    background: $color-blue-light  !important;
+    box-shadow: none !important;
+  } */ }
+  .bmls_tertiary_default_btn.Mui-disabled {
+    color: #bbbbc4 !important; }
+
+.bmls_tertiary_small_btn {
+  color: #253772 !important;
+  border-radius: 4px !important;
+  text-transform: none !important;
+  /* &:hover {
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    background-color: transparent !important;
+  }
+
+  &:focus {
+    box-shadow: 4px 0px 4px rgba(0, 0, 0, 0.12) !important;
+  }
+
+  &:active {
+    background: $color-blue-light  !important;
+    box-shadow: none !important;
+  } */ }
+  .bmls_tertiary_small_btn.Mui-disabled {
+    color: #bbbbc4 !important; }
+
+.bmls_default_btn_with_icon {
+  color: #ffffff !important;
+  background: #d46a48 !important;
+  border-radius: 4px !important;
+  text-transform: none !important; }
+
+.bmls_small_btn_with_icon {
+  color: #ffffff !important;
+  background: #d46a48 !important;
+  border-radius: 4px !important;
+  text-transform: none !important; }
+
+.bmls_icon_only_default_btn {
+  color: #ffffff !important;
+  background: #d46a48 !important;
+  border-radius: 4px !important; }
+  .bmls_icon_only_default_btn .MuiSvgIcon-root {
+    width: 1rem !important;
+    height: 1rem !important; }
+
+.bmls_icon_only_small_btn {
+  color: #ffffff !important;
+  background: #d46a48 !important;
+  border-radius: 4px !important; }
+  .bmls_icon_only_small_btn .MuiSvgIcon-root {
+    width: 1rem !important;
+    height: 1rem !important; }
+
+.test {
+  background: #d46a48 !important;
+  border-radius: 4px !important; }
