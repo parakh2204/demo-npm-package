@@ -11,9 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/parakh2204/demo-npm-package.git"
   },
-  "keywords": [],
+  "keywords": ["bright","bright-mls","design-systems","bright-design-systems","bright-design-guide"],
   "author": "Parakh Maheshwari",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/parakh2204/demo-npm-package/issues"
   },
